@@ -1,0 +1,10 @@
+{
+  "username": "tomsmith",
+  "password": "SuperSecretPassword!",
+  "subheaderText": "This is where you can log into the secure area. Enter tomsmith for the username and SuperSecretPassword! for the password. If the information is wrong you should see error messages.",
+  "invalidUsernameText": "Your username is invalid!",
+  "invalidPasswordText": "Your password is invalid!",
+  "successfulLoginText": "You logged into a secure area!",
+  "secureAreaText": "Welcome to the Secure Area. When you are done click logout below.",
+  "secureAreaLogoutText": "You logged out of the secure area!"
+}
